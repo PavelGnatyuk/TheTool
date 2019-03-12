@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AFBCD37922377A0D0014E4EA /* TheTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBCD37822377A0D0014E4EA /* TheTool.swift */; };
 		AFBCD38022377A6B0014E4EA /* ReusableIdentifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBCD37F22377A6B0014E4EA /* ReusableIdentifier.swift */; };
 		AFBCD45022378CB60014E4EA /* UIViewController+addChild.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBCD44F22378CB60014E4EA /* UIViewController+addChild.swift */; };
 		AFBCD45B2237C2080014E4EA /* Color+hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBCD45A2237C2080014E4EA /* Color+hex.swift */; };
@@ -27,7 +26,6 @@
 
 /* Begin PBXFileReference section */
 		AFBCD37522377A0D0014E4EA /* libTheTool.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libTheTool.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		AFBCD37822377A0D0014E4EA /* TheTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheTool.swift; sourceTree = "<group>"; };
 		AFBCD37F22377A6B0014E4EA /* ReusableIdentifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReusableIdentifier.swift; sourceTree = "<group>"; };
 		AFBCD38122377BF30014E4EA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		AFBCD44F22378CB60014E4EA /* UIViewController+addChild.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+addChild.swift"; sourceTree = "<group>"; };
@@ -65,7 +63,6 @@
 		AFBCD37722377A0D0014E4EA /* TheTool */ = {
 			isa = PBXGroup;
 			children = (
-				AFBCD37822377A0D0014E4EA /* TheTool.swift */,
 				AFBCD37F22377A6B0014E4EA /* ReusableIdentifier.swift */,
 				AFBCD44F22378CB60014E4EA /* UIViewController+addChild.swift */,
 				AFBCD45A2237C2080014E4EA /* Color+hex.swift */,
@@ -132,7 +129,6 @@
 			files = (
 				AFBCD45022378CB60014E4EA /* UIViewController+addChild.swift in Sources */,
 				AFBCD45B2237C2080014E4EA /* Color+hex.swift in Sources */,
-				AFBCD37922377A0D0014E4EA /* TheTool.swift in Sources */,
 				AFBCD38022377A6B0014E4EA /* ReusableIdentifier.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
