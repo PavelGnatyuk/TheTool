@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF4DC5FE27A4FF4B006E374F /* DefaultConstructible.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4DC5FD27A4FF4B006E374F /* DefaultConstructible.swift */; };
 		AFBCD38022377A6B0014E4EA /* ReusableIdentifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBCD37F22377A6B0014E4EA /* ReusableIdentifier.swift */; };
 		AFBCD45022378CB60014E4EA /* UIViewController+addChild.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBCD44F22378CB60014E4EA /* UIViewController+addChild.swift */; };
 		AFBCD45B2237C2080014E4EA /* Color+hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBCD45A2237C2080014E4EA /* Color+hex.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		AF4DC5FD27A4FF4B006E374F /* DefaultConstructible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultConstructible.swift; sourceTree = "<group>"; };
 		AFBCD37522377A0D0014E4EA /* libTheTool.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libTheTool.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFBCD37F22377A6B0014E4EA /* ReusableIdentifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReusableIdentifier.swift; sourceTree = "<group>"; };
 		AFBCD38122377BF30014E4EA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				AFBCD37F22377A6B0014E4EA /* ReusableIdentifier.swift */,
+				AF4DC5FD27A4FF4B006E374F /* DefaultConstructible.swift */,
 				AFBCD44F22378CB60014E4EA /* UIViewController+addChild.swift */,
 				AFBCD45A2237C2080014E4EA /* Color+hex.swift */,
 			);
@@ -130,6 +133,7 @@
 				AFBCD45022378CB60014E4EA /* UIViewController+addChild.swift in Sources */,
 				AFBCD45B2237C2080014E4EA /* Color+hex.swift in Sources */,
 				AFBCD38022377A6B0014E4EA /* ReusableIdentifier.swift in Sources */,
+				AF4DC5FE27A4FF4B006E374F /* DefaultConstructible.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
